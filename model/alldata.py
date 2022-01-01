@@ -32,14 +32,12 @@ def modelalldata():
             "total_recovered": total_recovered,
             "total_deaths": total_death,
             "total_active": total_active,
-
             "new_positive": new_positif,
             "new_recovered": new_recovered,
             "new_deaths": new_death,
             "new_active": new_active,
         },
         "message":"Data Berhasil Di get"
-
     }
     # “new_positive”: < value >,
     # “new_recovered”: < value >,,
